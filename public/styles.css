@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+}
+.joke {
+  margin-top: 20px;
+  font-size: 1.2em;
+  line-height: 1.5;
+}
+h1 {
+  color: #4CAF50;
+}
